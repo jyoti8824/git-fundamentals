@@ -1,2 +1,1 @@
-This is a text file named as app.txt
-This file is added to initial commit.
+This is a text file named as app.txt. This file is added to initial commit.
