@@ -4,4 +4,6 @@ Fifth commit.
 Seventh commit.
 Integrated payment api - Eight commit.
 Ninth commit.
-Something already done.
+Tenth commit.
+How rebase works: Elevent commit.
+
