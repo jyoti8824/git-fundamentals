@@ -6,4 +6,4 @@ Integrated payment api - Eight commit.
 Ninth commit.
 Tenth commit.
 How rebase works: Elevent commit.
-
+Rebase practice: this commit will later be replayed on top of the updated main branch: Twelth commit."
